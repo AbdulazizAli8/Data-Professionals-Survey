@@ -27,6 +27,8 @@ Dashboard Development: Designed an interactive dashboard to explore survey resul
 
 Dashboard
 
+<img width="574" height="329" alt="Data Professionals Survey" src="https://github.com/user-attachments/assets/e8ec95f9-2c8f-42d7-b55a-1cad617e394b" />
+
 The Power BI dashboard explores several key areas:
 
 Average salaries across different data job roles.
